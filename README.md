@@ -1,4 +1,4 @@
-### <p align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Vikash PR</p>
+### <p align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm KawaiNime</p>
 
 <p align="center"> 
 I love turning that GitHub contribution graph ⬇️ more green 🟩 in my <del>spare time</del> full time 🙃
@@ -31,7 +31,7 @@ I love turning that GitHub contribution graph ⬇️ more green 🟩 in my <del>
 ### aboutMe.Js:
 
 ```javascript
-const VikashPR = {
+const KawaiNime = {
    pronouns: "he" | "him",
    code: ["HTML", "JS", "CSS", "C/C++", "PYTHON"],
    askMeAbout: ["Web Development", "Cycling", "Discord", "IoT"],
@@ -98,7 +98,7 @@ const VikashPR = {
 
 | <img width="450em" src="https://github-profile-trophy.vercel.app/?username=vikashpr&theme=onestar&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"> | <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikashpr&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="Vikash's Most used lang" /> |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=VikashPR&theme=vue-dark" alt="Vikash2806 Streak" />                                           |  <img width="450em" align="center" alt="vikash's Github stats"  src="https://github-readme-stats.vercel.app/api?username=vikashpr&show_icons=true&count_private=true&theme=vue-dark" />   |
+|                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=kawainime&theme=vue-dark" alt="Streak" />                                           |  <img width="450em" align="center" alt="root's Github stats"  src="https://github-readme-stats.vercel.app/api?username=kawainime&show_icons=true&count_private=true&theme=vue-dark" />   |
 
 <!-- ### Github contribution:
 
