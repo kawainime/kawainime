@@ -6,25 +6,22 @@ I love turning that GitHub contribution graph ⬇️ more green 🟩 in my <del>
 
 <br/>
  <p align="center">
-  <a href="#"> <img src="assets/2.gif"><a/>
-  <a href="#"><img src="assets/8.gif"><a/>
-  <a href="#"><img src="assets/0.gif"><a/>
-  <a href="#"><img src="assets/6.gif"><a/>
+  <a href="#"> <img src="https://github.com/kawainime/kawainime/assets/147604824/df003030-2492-42dc-8496-3c43a92efbf8"><a/>
 </p>
 	  
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-☞ 〔 ⚪️ 〕🎀 Pink is Sweet 🎀 | 🌹 Rose is red
+☞ 〔 ⚪️ 〕🎀 Pink is Sweet 🎀 | 🌹 Rose is Red 🇮🇩
 
-☞ 〔 🐵 〕 <a href="https://www.webilicious.in/">![Weblicious](https://img.shields.io/badge/Team-%40Webilicious-brightgreen)</a> <a href="https://www.srmist.edu.in">![SRMIST](https://img.shields.io/badge/Student-%40SRMIST-blue)</a>
+☞ 〔 🇵🇸 〕 <a href="https://www.webilicious.in/">![Weblicious](https://img.shields.io/badge/Team-%40Webilicious-brightgreen)</a> <a href="https://www.srmist.edu.in">![SRMIST](https://img.shields.io/badge/Student-%40SRMIST-blue)</a>
 
-☞ 〔 🐼 〕Frot End DEV
+☞ 〔 🐼 〕Frontend & Backend Development
 
-☞ 〔 🤾 〕19
+☞ 〔 🤾 〕21
 
-☞ 〔 <img height="18" width="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"/> 〕Vue Simp
+☞ 〔 <img height="18" width="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"/> 〕Vue Js
 
-☞ 〔 👀 〕![](https://komarev.com/ghpvc/?username=vikashpr&color=dc143c)
+☞ 〔 👀 〕![](https://komarev.com/ghpvc/?username=kawainime&color=dc143c)
 
 <br>
 
@@ -44,7 +41,7 @@ const KawaiNime = {
        },
        competitive: {
            compilerLang: ["C/C++"],
-           interpretedLang: ["PYTHON"]
+           interpretedLang: ["PYTHON, Javascript, HTML, Golang, PHP"]
        }
    }
 };
